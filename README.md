@@ -1,1 +1,2 @@
-# Bullet-and-walls
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
